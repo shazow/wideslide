@@ -1,5 +1,4 @@
-Wideslide: jQuery slideshow plugin
-==================================
+# Wideslide: jQuery slideshow plugin
 
 *By [Andrey Petrov](http://shazow.net/) and [Ryan Feeley](http://ryanfeeley.com)*
 
@@ -7,8 +6,7 @@ Want to display an inline slideshow of images of a fixed size on your webpage?
 Usually this requires cropping your images to a uniform dimension. But now with
 Wideslide you can retain the original image ratio.
 
-Wideslide Javascript for the header
------------------------------------
+## Wideslide Javascript for the header
 
     <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="jquery.wideslide.js"></script>
@@ -25,8 +23,7 @@ Wideslide Javascript for the header
         });
     </script>
 
-Wideslide HTML for the body
----------------------------
+## Wideslide HTML for the body
 
 The contents of the jQuery-selected class in the Javascript header will be
 replaced with the slideshow interface. In this case, the class is *wideslide*.
@@ -42,7 +39,11 @@ replaced with the slideshow interface. In this case, the class is *wideslide*.
         <li><img src="image7.jpg" width="320" height="240" /></li>
     </ul>
 
-[Demo](http://shazow.net/wideslide/demo/)
-=========================================
+# [Demo](http://shazow.net/wideslide/demo/)
 
-Try it out.
+Try it!
+
+# [Download](http://github.com/shazow/wideslide/raw/master/jquery.wideslide.js)
+
+Use it!
+

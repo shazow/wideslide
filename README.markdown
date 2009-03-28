@@ -40,3 +40,7 @@ replaced with the slideshow interface. In this case, the class is *wideslide*.
         <li><img src="image7.jpg" width="320" height="240" /></li>
     </ul>
 
+[Demo](http://shazow.net/wideslide/demo/)
+=========================================
+
+Try it out.

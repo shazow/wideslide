@@ -8,10 +8,11 @@ Wideslide you can retain the original image ratio.
 Wideslide Javascript for the header
 -----------------------------------
 
+    <script type="text/javascript" src="jquery.min.js"></script>
     <script type="text/javascript" src="jquery.wideslide.js"></script>
 
     <script type="text/javascript">
-        $(document).ready(function() {w
+        $(document).ready(function() {
             $('.wideslide').wideslide({
                 width: 710,       // Width of the container
                 height: 244,      // Height of the container
@@ -24,6 +25,9 @@ Wideslide Javascript for the header
 
 Wideslide HTML for the body
 ---------------------------
+
+The contents of the jQuery-selected class in the Javascript header will be
+replaced with the slideshow interface. In this case, the class is *wideslide*.
 
     <ul class="wideslide">
         <li><img src="image1.jpg" width="374" height="240" /></li>

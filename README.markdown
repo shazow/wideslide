@@ -1,6 +1,8 @@
 Wideslide: jQuery slideshow plugin
 ==================================
 
+*By [Andrey Petrov](http://shazow.net/) and [Ryan Feeley](http://ryanfeeley.com)*
+
 Want to display an inline slideshow of images of a fixed size on your webpage?
 Usually this requires cropping your images to a uniform dimension. But now with
 Wideslide you can retain the original image ratio.

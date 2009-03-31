@@ -24,10 +24,7 @@ function Wideslide(_target, images, options) {
         this.num = i;
         this.wideslide = self;
         container.append(img);
-    });
 
-    // Add click controls to each image as it loads
-    images.load(function() {
         this.view = function(e) {
             var width = $(this).width();
             var extra = (options.width - width)/2;
